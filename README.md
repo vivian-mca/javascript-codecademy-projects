@@ -1,6 +1,6 @@
 # Codecademy Projects* | JavaScript
 
-These are JavaScript projects* I have created on Codecademy, primarily under the Full-Stack Engineer Career Path.
+These are JavaScript projects* I have created in Codecademy, primarily under the Full-Stack Engineer Career Path.
 
 Each project has a **README.md** file and is listed under the course it was created in.
 
