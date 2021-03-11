@@ -9,6 +9,8 @@ Each project has a **README.md** file and is listed under the course it was crea
 ## Table of Contents
 * [General Info](#general-info)
 * [JavaScript Syntax, Part I](#javascript-syntax-part-i)
+* [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
+* [JavaScript Syntax Portfolio Project](javascript-syntax-portfolio-project)
 * [Status](#status)
 * [Contributing](#contributing)
 
@@ -16,14 +18,29 @@ Each project has a **README.md** file and is listed under the course it was crea
 The objective of this repository is to document my progress while learning JavaScript. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## JavaScript Syntax, Part I
-* Kelvin Weather
-* Dog Years
-* Magic Eight Ball
-* Race Day
-* Rock, Paper, or Scissors
-* Sleep Debt Calculator
-* Training Days
+* Kelvin Weather (Intro)
+* Dog Years (Intro)
+* Magic Eight Ball (Conditionals)
+* Race Day (Conditionals)
+* Rock, Paper, or Scissors (Functions)
+* Sleep Debt Calculator (Functions)
+* Training Days (Scope)
+* Code Challenges: JavaScript Fundamentals
 * Number Guesser
+
+## JavaScript Syntax, Part II
+* Secret Message (Arrays)
+* Whale Talk (Loops)
+* Meal Maker (Objects)
+* Team Stats (Objects)
+* Mini Linter (Iterators)
+* Code Challenges: Intermediate JavaScript
+* Lodash
+* Credit Card Checker
+* Mysterious Organism
+
+## JavaScript Syntax Portfolio Project
+* Mixed Messages
 
 ## Status
 :heavy_check_mark: _in progress_
