@@ -10,7 +10,7 @@ Each project has a **README.md** file and is listed under the course it was crea
 * [General Info](#general-info)
 * [JavaScript Syntax, Part I](#javascript-syntax-part-i)
 * [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
-* [JavaScript Syntax Portfolio Project](javascript-syntax-portfolio-project)
+* [JavaScript Syntax Portfolio Project](#javascript-syntax-portfolio-project)
 * [Status](#status)
 * [Contributing](#contributing)
 
