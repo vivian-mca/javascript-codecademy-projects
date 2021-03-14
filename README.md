@@ -18,8 +18,8 @@ Each project has a **README.md** file and is listed under the course it was crea
 The objective of this repository is to document my progress while learning JavaScript. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
 
 ## JavaScript Syntax, Part I
-* Kelvin Weather (Intro)
-* Dog Years (Intro)
+* [Kelvin Weather (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Kelvin%20Weather)
+* [Dog Years (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Dog%20Years)
 * Magic Eight Ball (Conditionals)
 * Race Day (Conditionals)
 * Rock, Paper, or Scissors (Functions)
