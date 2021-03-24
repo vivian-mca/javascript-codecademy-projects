@@ -20,7 +20,7 @@ The objective of this repository is to document my progress while learning JavaS
 ## JavaScript Syntax, Part I
 * [Kelvin Weather (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Kelvin%20Weather)
 * [Dog Years (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Dog%20Years)
-* Magic Eight Ball (Conditionals)
+* [Magic Eight Ball (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Magic%20Eight%20Ball)
 * Race Day (Conditionals)
 * Rock, Paper, or Scissors (Functions)
 * Sleep Debt Calculator (Functions)
