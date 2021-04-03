@@ -1,19 +1,20 @@
 # JavaScript Syntax I | Race Day
-This project was created to build fluency in JavaScript fundamentals by practicing function syntax.
+This project was created to build fluency in JavaScript fundamentals by practicing control flow by using conditional statements.
 
 ## [Project Prompt](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fecp-learn-javascript-syntax-conditionals/projects/race-day)
-"Rock paper scissors is a classic two player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
+"Codecademy’s annual race is just around the corner! This year, we have a lot of participants. You have been hired to write a program that will register runners for the race and give them instructions on race day.
 
-The possible outcomes are:
+Here’s how our registration works. There are adult runners (over 18 years of age) and youth runners (under 18 years of age). They can register early or late. Runners are assigned a race number and start time based on their age and registration.
 
-Rock destroys scissors.
-Scissors cut paper.
-Paper covers rock.
-If there’s a tie, then the game ends in a draw.
-Our code will break the game into four parts:
+Race number:
 
-Get the user’s choice.
-Get the computer’s choice.
-Compare the two choices and determine a winner.
-Start the program and display the results."
+Early adults receive a race number at or above 1000.
+All others receive a number below 1000.
+Start time:
+
+Adult registrants run at 9:30 am or 11:00 am.
+Early adults run at 9:30 am.
+Late adults run at 11:00 am.
+Youth registrants run at 12:30 pm (regardless of registration).
+But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project."
 
