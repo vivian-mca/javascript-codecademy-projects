@@ -1,21 +1,19 @@
 let raceNumber = Math.floor(Math.random() * 1000);
 let registeredEarly = false;
-let age = 18;
+let age = 21;
 
-//Early adults receive a race number at or above 1000
-if (registeredEarly && age > 18) {
+// Generates race numbers for adults who registered early
+if (age > 18 && registeredEarly) {
   raceNumber += 1000;
 };
 
-//Assigns time of race and race number
-if (registeredEarly && age > 18) {
-  console.log(`Your race will start at 9:30 am. Your race number is ${raceNumber}.`);
-} else if (!registeredEarly && age > 18) {
-  console.log(`Your race will start at 11:00 am. Your race number is ${raceNumber}.`);
+// Start time and race number statements for runners
+if (age > 18 && registeredEarly) {
+  console.log(`Your race number is ${raceNumber}. Your race will begin at 9:30 am.`);
+} else if (age > 18 && !registeredEarly) {
+  console.log(`Your race number is ${raceNumber}. Your race will begin at 11:00 am.`);
 } else if (age < 18) {
-  console.log(`Your race will start at 12:30 pm. Your race number is ${raceNumber}.`);
+  console.log(`Your race number is ${raceNumber}. Your race will begin at 12:30 pm.`);
 } else {
-  console.log('Please see the registration desk for more information.');
+  console.log(`Please see the registration desk for support.`);
 };
-
-
