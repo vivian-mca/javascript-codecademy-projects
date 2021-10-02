@@ -1,24 +1,25 @@
-//My current age
-const myAge = 30;
+// Input age
+const myAge = 28;
 
-//early years
+// The first two years of a dog's life
 let earlyYears = 2;
 earlyYears *= 10.5;
 
-//later years
+// Accounts for the first two years
 let laterYears = myAge - 2;
 
-//Calculate the number of dog years accounted for by your later years.
+// Number of dog years accounted for by your later years
 laterYears *= 4;
 
+// Checkpoint
 console.log(earlyYears);
 console.log(laterYears);
 
-//My age in dog years
-let myAgeInDogYears = earlyYears + laterYears;
+// Age in dog years
+const myAgeinDogYears = earlyYears + laterYears;
 
-//My name in lowercase letters
-myName  = 'Vivian'.toLowerCase();
+// Name in lowercase letters
+const myName = 'Vivian'.toLowerCase();
 
-//Statement converting my age to my age in dog years
-console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
+// Statement that displays your name and age in dog years
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeinDogYears} years old in dog years.`);
