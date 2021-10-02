@@ -1,19 +1,47 @@
-let userName = ''; //Enter username
-userName ? console.log(`Hello, ${userName}!`) : console.log ('Hello!');
+// Input username option
+let userName = '';
+userName ? console.log(`Hello, ${userName}`) : console.log('Hello!');
 
-let userQuestion = ''; //Enter a question for Magic Eightball
+// Input a question the user wants to ask the Magic Eight Ball
+let userQuestion = '';
+console.log(`The user asked: ${userQuestion}`);
 
-if (userName) {
-  console.log(`${userName} asked: ${userQuestion}`);
-} else {
-  console.log(`The user asked: ${userQuestion}`);
-}
+// Generates a random number between 0 and 7
+let randomNumber = Math.floor(Math.random() * 8);
 
-
-let randomNumber = Math.floor(Math.random() * 8); //Generate a random number between 0 and 7
+// Magic Eight Ball statements based on generated number from randomNumber
 let eightBall = '';
+switch (randomNumber) {
+  case 0:
+    eightBall = 'It is certain';
+    break;
+  case 1:
+    eightBall = 'It is decidedly so';
+    break;
+  case 2:
+    eightBall = 'Reply hazy try again';
+    break;
+  case 3:
+    eightBall = 'Cannot predict now';
+    break;
+  case 4:
+    eightBall = 'Do not count on it';
+    break;
+  case 5:
+    eightBall = 'My sources say no';
+    break;
+  case 6:
+    eightBall = 'Outlook not so good';
+    break;
+  case 7:
+    eightBall = 'Signs point to yes';
+    break;
+  default:
+    eightBall = 'Invalid';
+    break;
+};
 
-//if..else statements for Magic Eightball phrases based on generated random number
+/* Alternate solution using if..else statements for Magic Eight Ball statements based on generated number from randomNumber
 if (randomNumber = 0) {
   console.log('It is certain');
 } else if (randomNumber = 1) {
@@ -31,34 +59,7 @@ if (randomNumber = 0) {
 } else {
   console.log ('Signs point to yes')
 }
-
-/*switch statement for Magic Eightball phrases based on generated random number
-switch (randomNumber) {
-  case 0:
-    eightBall = 'It is certain';
-    break;
-  case 1:
-    eightBall = 'It is decidedly so';
-    break;
-  case 2:
-    eightBall = 'Reply hazy, try again';
-    break;
-  case 3:
-    eightBall = 'Cannot predict now';
-    break;
-  case 4:
-    eightBall = 'Do not count on it';
-    break;
-  case 5: 
-    eightBall = 'My sources say no';
-    break;
-  case 6:
-    eightBall = 'Outlook not so good';
-    break;
-  case 7:
-    eightBall = 'Signs point to yes';
-    break;
-  }
-
-console.log(`Magic Eightball answered: ${eightBall}`);
 */
+
+// Magic Eight Ball's response
+console.log(`The Magic Eight Ball answered: ${eightBall}`);
