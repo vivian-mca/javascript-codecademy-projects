@@ -19,7 +19,8 @@ console.log(laterYears);
 const myAgeinDogYears = earlyYears + laterYears;
 
 // Name in lowercase letters
-const myName = 'Vivian'.toLowerCase();
+const myName = "Vivian";
+const myNameLowerCase = myName.toLowerCase();
 
 // Statement that displays your name and age in dog years
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeinDogYears} years old in dog years.`);
