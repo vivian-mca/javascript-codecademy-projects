@@ -13,5 +13,3 @@ console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
 
 const newton = Math.floor(celsius * (33/100));
 console.log(`The temperature is ${newton} degrees Newton.`);
-
-
