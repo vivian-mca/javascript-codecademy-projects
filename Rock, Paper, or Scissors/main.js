@@ -1,32 +1,30 @@
-//Sets user's choice to rock, paper, or scissors
+// Gets user input
 const getUserChoice = userInput => {
   userInput = userInput.toLowerCase();
   if (userInput === 'rock' || userInput === 'paper' || userInput === 'scissors' || userInput === 'bomb') {
     return userInput;
   } else {
-    console.log('Error detected! Please type: rock, paper, or scissors. You noob! Get it right!');
-  }
+    console.log('ERROR: Invalid choice. Please pick rock, paper, or scissors.');
+  };
 };
 
-//Generates computer's choice 
+// Generates computer choice
 const getComputerChoice = () => {
-  const randomNumber = Math.floor(Math.random() * 3);
+  let randomNumber = Math.floor(Math.random() * 3);
   switch (randomNumber) {
     case 0:
       return 'rock';
       break;
-
     case 1:
       return 'paper';
       break;
-
     case 2:
       return 'scissors';
       break;
-  }
+  };
 };
 
-//Determines winner and displays if user won, lost, or tied
+// Determines winner between user and computer
 const determineWinner = (userChoice, computerChoice) => {
   if (userChoice === computerChoice) {
     return 'Draw!';
@@ -34,47 +32,40 @@ const determineWinner = (userChoice, computerChoice) => {
 
   if (userChoice === 'rock') {
     if (computerChoice === 'paper') {
-      return 'Try again next time, LOSER!';
+      return 'The computer won!';
     } else {
-      return "Winner winner, chimken dinner! That was just luck, don't get cocky!";
-    }
+      return 'You won!';
+    };
   };
 
   if (userChoice === 'paper') {
-    if (computerChoice === 'scissors' || computerChoice === 'rock') {
-      return 'Try again next time, LOSER!';
+    if (computerChoice === 'scissors') {
+      return 'The computer won!';
     } else {
-      return "Winner winner, chimken dinner! That was just luck, don't get cocky!";
-    }
+      return 'You won!';
+    };
   };
 
   if (userChoice === 'scissors') {
-    if (computerChoice === 'rock' || computerChoice === 'paper') {
-      return 'Try again next time, LOSER!';
+    if (computerChoice === 'rock') {
+      return 'The computer won!';
     } else {
-      return "Winner winner, chimken dinner! That was just luck, don't get cocky!";
-    }
+      return 'You won!';
+    };
   };
 
   if (userChoice === 'bomb') {
-    return 'Winner winner, chimken dinner! Who told you the secret cheat code?!';
+    return 'You won!';
   };
 };
 
-//Executes program and displays result
+// Executes program and displays result
 const playGame = () => {
-  const userChoice = getUserChoice('bomb');
-  const computerChoice = getComputerChoice();
+  userChoice = getUserChoice('bomb');
+  computerChoice = getComputerChoice();
   console.log('You threw: ' + userChoice);
   console.log('The computer threw: ' + computerChoice);
   console.log(determineWinner(userChoice, computerChoice));
 };
 
 playGame();
-
-
-
-
-
-  
-
