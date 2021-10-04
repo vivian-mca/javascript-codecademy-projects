@@ -22,8 +22,8 @@ The objective of this repository is to document my progress while learning JavaS
 * [Dog Years (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Dog%20Years)
 * [Magic Eight Ball (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Magic%20Eight%20Ball)
 * [Race Day (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Race%20Day)
-* Rock, Paper, or Scissors (Functions)
-* Sleep Debt Calculator (Functions)
+* [Rock, Paper, or Scissors (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Rock%2C%20Paper%2C%20or%20Scissors)
+* [Sleep Debt Calculator (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Sleep%20Debt%20Calculator)
 * Training Days (Scope)
 * Code Challenges: JavaScript Fundamentals
 * Number Guesser
