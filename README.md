@@ -33,7 +33,7 @@ The objective of this repository is to document my progress while learning JavaS
 * Whale Talk (Loops)
 * Meal Maker (Objects)
 * Team Stats (Objects)
-* Mini Linter (Iterators)
+* [Mini Linter (Iterators)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Mini%20Linter)
 * Code Challenges: Intermediate JavaScript
 * Lodash
 * Credit Card Checker
