@@ -1,21 +1,34 @@
 # Codecademy Projects* | JavaScript
 
-These are JavaScript projects* I have created in Codecademy, primarily under the Full-Stack Engineer Career Path.
-
-Each project has a **README.md** file and is listed under the course it was created in.
-
-###### *Currently, the projects mainly consist of code snippets.
+These are JavaScript projects* I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
 ## Table of Contents
-* [General Info](#general-info)
-* [JavaScript Syntax, Part I](#javascript-syntax-part-i)
-* [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
-* [JavaScript Syntax Portfolio Project](#javascript-syntax-portfolio-project)
-* [Status](#status)
-* [Contributing](#contributing)
+- [Codecademy Projects* | JavaScript](#codecademy-projects--javascript)
+  - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+    - [Purpose](#purpose)
+    - [Objectives](#objectives)
+  - [Usage](#usage)
+  - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
+  - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
+  - [Technologies Used](#technologies-used)
+  - [Status](#status)
+  - [Contributing](#contributing)
+
 
 ## General Info
-The objective of this repository is to document my progress while learning JavaScript. My goal is to continue improving and modifying these projects as I gain more knowledge in Web Development.
+### Purpose
+* document my progress in Scrimba's course
+* create a library of the projects I have created
+
+### Objectives
+* continue honing my skills in JavaScript by undertaking these projects
+* practice writing documentations
+
+## Usage
+The following projects will be listed under the modules they were created under. Each project will have a README.md file describing what the project is about.
+
+To view the projects, please click on the links below.
 
 ## JavaScript Syntax, Part I
 * [Kelvin Weather (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Kelvin%20Weather)
@@ -26,7 +39,7 @@ The objective of this repository is to document my progress while learning JavaS
 * [Sleep Debt Calculator (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Sleep%20Debt%20Calculator)
 * [Training Days (Scope)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Training%20Days);
 * Code Challenges: JavaScript Fundamentals
-* Number Guesser
+* [Challenge Project: Number Guesser](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Number%20Guesser)
 
 ## JavaScript Syntax, Part II
 * Secret Message (Arrays)
@@ -35,16 +48,19 @@ The objective of this repository is to document my progress while learning JavaS
 * Team Stats (Objects)
 * [Mini Linter (Iterators)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Mini%20Linter)
 * Code Challenges: Intermediate JavaScript
-* Lodash
-* Credit Card Checker
-* Mysterious Organism
+* Challenge Project: Credit Card Checker
+* Challenge Project: Mysterious Organism
 
-## JavaScript Syntax Portfolio Project
-* Mixed Messages
+## Technologies Used
+* HTML5
+* CSS3
+* JavaScript
 
 ## Status
 :heavy_check_mark: _in progress_
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+I am open for code reviews! Please help me git gud.
 
