@@ -11,6 +11,7 @@ These are JavaScript projects* I have created in Codecademy, primarily under the
   - [Usage](#usage)
   - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
   - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
+  - [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
   - [Technologies Used](#technologies-used)
   - [Status](#status)
   - [Contributing](#contributing)
@@ -50,6 +51,9 @@ To view the projects, please click on the links below.
 * Code Challenges: Intermediate JavaScript
 * Challenge Project: Credit Card Checker
 * Challenge Project: Mysterious Organism
+
+## JavaScript Syntax, Part III
+* [Build a Library (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Build%20a%20Library)
 
 ## Technologies Used
 * HTML5
