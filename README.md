@@ -54,6 +54,7 @@ To view the projects, please click on the links below.
 
 ## JavaScript Syntax, Part III
 * [Build a Library (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Build%20a%20Library)
+* [School Catalogue (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/School%20Catalogue)
 
 ## Technologies Used
 * HTML5
