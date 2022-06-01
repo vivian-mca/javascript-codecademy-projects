@@ -1,6 +1,6 @@
-# Codecademy Projects* | JavaScript
+# Codecademy Projects | JavaScript
 
-These are JavaScript projects* I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
+These are JavaScript projects I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
 ## Table of Contents
 - [Codecademy Projects* | JavaScript](#codecademy-projects--javascript)
