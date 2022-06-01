@@ -1,20 +1,18 @@
-# Codecademy Projects* | JavaScript
+# Codecademy Projects* | JavaScript <!-- omit in toc -->
 
 These are JavaScript projects* I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
-## Table of Contents
-- [Codecademy Projects* | JavaScript](#codecademy-projects--javascript)
-  - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
-    - [Purpose](#purpose)
-    - [Objectives](#objectives)
-  - [Usage](#usage)
-  - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
-  - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
-  - [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
-  - [Technologies Used](#technologies-used)
-  - [Status](#status)
-  - [Contributing](#contributing)
+## Table of Contents <!-- omit in toc -->
+- [General Info](#general-info)
+  - [Purpose](#purpose)
+  - [Objectives](#objectives)
+- [Usage](#usage)
+- [JavaScript Syntax, Part I](#javascript-syntax-part-i)
+- [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
+- [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
+- [Technologies Used](#technologies-used)
+- [Status](#status)
+- [Contributing](#contributing)
 
 
 ## General Info
