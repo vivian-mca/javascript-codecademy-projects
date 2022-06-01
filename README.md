@@ -1,6 +1,6 @@
-# Codecademy Projects* | JavaScript <!-- omit in toc -->
+# Codecademy Projects | JavaScript <!-- omit in toc -->
 
-These are JavaScript projects* I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
+These are JavaScript projects I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
 ## Table of Contents <!-- omit in toc -->
 - [General Info](#general-info)
@@ -13,7 +13,6 @@ These are JavaScript projects* I have created in Codecademy, primarily under the
 - [Technologies Used](#technologies-used)
 - [Status](#status)
 - [Contributing](#contributing)
-
 
 ## General Info
 ### Purpose
