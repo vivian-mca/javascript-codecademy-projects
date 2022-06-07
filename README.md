@@ -7,12 +7,11 @@
 These are JavaScript projects I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
 ## Table of Contents <!-- omit in toc -->
-
 - [General Info](#general-info)
   - [Purpose](#purpose)
   - [Objectives](#objectives)
   - [Overview](#overview)
-- [Projects](#projects)
+- [Project List](#project-list)
   - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
   - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
 - [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
@@ -38,7 +37,7 @@ The following projects will be listed under the modules they were created under.
 
 To view the project's source code, please click on the respective link below.
 
-## Projects
+## Project List
 
 ### JavaScript Syntax, Part I
 
