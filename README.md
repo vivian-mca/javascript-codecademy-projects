@@ -75,7 +75,7 @@ To view the project's source code, please click on the respective link below.
 
 ## Status
 
-:arrows_counterclockwise: in progress
+:arrows_counterclockwise: In progress
 
 ## Contributing
 
