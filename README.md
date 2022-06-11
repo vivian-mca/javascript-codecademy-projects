@@ -4,7 +4,7 @@
 
 <h1 align="center">Codecademy | JavaScript Projects</h1>
 
-These are JavaScript projects I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
+This is a collection of JavaScript projects I have created in Codecademy, primarily under the [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). These projects consist of guided and solo projects.
 
 ## Table of Contents <!-- omit in toc -->
 - [General Info](#general-info)
