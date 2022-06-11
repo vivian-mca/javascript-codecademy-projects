@@ -60,7 +60,7 @@ To view the project's source code, please click on the respective link below.
 - [Mini Linter (Iterators)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Mini%20Linter)
 - Code Challenges: Intermediate JavaScript
 - [Challenge Project: Credit Card Checker](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker)
-- Challenge Project: Mysterious Organism
+- [Challenge Project: Mysterious Organism](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Mysterious%20Organism)
 
 ## JavaScript Syntax, Part III
 
