@@ -41,31 +41,31 @@ To view the project's source code, please click on the respective link below.
 
 ### JavaScript Syntax, Part I
 
-- [Kelvin Weather (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Kelvin%20Weather)
-- [Dog Years (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Dog%20Years)
-- [Magic Eight Ball (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Magic%20Eight%20Ball)
-- [Race Day (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Race%20Day)
-- [Rock, Paper, or Scissors (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Rock%2C%20Paper%2C%20or%20Scissors)
-- [Sleep Debt Calculator (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Sleep%20Debt%20Calculator)
-- [Training Days (Scope)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Training%20Days);
-- [Code Challenges: JavaScript Fundamentals](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Code%20Challenges%20-%20JavaScript%20Fundamentals)
-- [Challenge Project: Number Guesser](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Number%20Guesser) | [Live site](https://vivian-mca.github.io/javascript-codecademy-projects/Number%20Guesser/)
+- [x] [Kelvin Weather (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Kelvin%20Weather)
+- [x] [Dog Years (Intro)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Dog%20Years)
+- [x] [Magic Eight Ball (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Magic%20Eight%20Ball)
+- [x] [Race Day (Conditionals)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Race%20Day)
+- [x] [Rock, Paper, or Scissors (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Rock%2C%20Paper%2C%20or%20Scissors)
+- [x] [Sleep Debt Calculator (Functions)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Sleep%20Debt%20Calculator)
+- [x] [Training Days (Scope)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Training%20Days);
+- [x] [Code Challenges: JavaScript Fundamentals](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Code%20Challenges%20-%20JavaScript%20Fundamentals)
+- [x] [Challenge Project: Number Guesser](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Number%20Guesser) | [Live site](https://vivian-mca.github.io/javascript-codecademy-projects/Number%20Guesser/)
 
 ### JavaScript Syntax, Part II
 
-- Secret Message (Arrays)
-- Whale Talk (Loops)
-- Meal Maker (Objects)
-- Team Stats (Objects)
-- [Mini Linter (Iterators)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Mini%20Linter)
-- Code Challenges: Intermediate JavaScript
-- [Challenge Project: Credit Card Checker](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker)
-- [Challenge Project: Mysterious Organism](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Mysterious%20Organism)
+- [ ] Secret Message (Arrays)
+- [ ] Whale Talk (Loops)
+- [ ] Meal Maker (Objects)
+- [ ] Team Stats (Objects)
+- [x] [Mini Linter (Iterators)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Mini%20Linter)
+- [x] Code Challenges: Intermediate JavaScript
+- [ ] [Challenge Project: Credit Card Checker](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker)
+- [x] [Challenge Project: Mysterious Organism](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Mysterious%20Organism)
 
 ## JavaScript Syntax, Part III
 
-- [Build a Library (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Build%20a%20Library)
-- [School Catalogue (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/School%20Catalogue)
+- [x] [Build a Library (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Build%20a%20Library)
+- [x] [School Catalogue (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/School%20Catalogue)
 
 ## Technologies Used
 
