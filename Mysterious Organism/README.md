@@ -16,7 +16,7 @@
 
 ### About
 
-Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project to be built.
+This project is part of the JavaScript Syntax II Module. It is the culmination of learning JavaScript syntax for arrays, loops, objects, and iterators. Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project to be built.
 
 ### Project Goals
 
