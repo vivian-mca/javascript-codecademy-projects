@@ -14,7 +14,7 @@ This is a collection of JavaScript projects I have created in Codecademy, primar
 - [Project List](#project-list)
   - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
   - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
-- [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
+  - [JavaScript Syntax, Part III](#javascript-syntax-part-iii)
 - [Technologies Used](#technologies-used)
 - [Status](#status)
 - [Contributing](#contributing)
@@ -62,7 +62,7 @@ To view the project's source code, please click on the respective link below.
 - [ ] [Challenge Project: Credit Card Checker](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Credit%20Card%20Checker)
 - [x] [Challenge Project: Mysterious Organism](https://github.com/vivian-mca/javascript-codecademy-projects/tree/gh-pages/Mysterious%20Organism)
 
-## JavaScript Syntax, Part III
+### JavaScript Syntax, Part III
 
 - [x] [Build a Library (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/Build%20a%20Library)
 - [x] [School Catalogue (Classes)](https://github.com/vivian-mca/JavaScript-Codecademy-Projects/tree/gh-pages/School%20Catalogue)
